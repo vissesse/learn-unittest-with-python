@@ -45,4 +45,3 @@ Guiar de como pensar como developer test brinlhante:
 
   * Se 
 
-  https://www.youtube.com/watch?v=t7vQF0ynF9g
